@@ -15,3 +15,5 @@
 * https://leafletjs.com/reference-1.5.0.html
 
 * https://leafletjs.com/index.html
+
+* https://www.colorado.edu/earthlab/learn-python-free-online-earth-data-science-tutorials
